@@ -12,7 +12,7 @@ top: 1
 
 ## Valaxy
 
-Next Generation Static Blog Framework.
+资源主要来自Telegram频道
 
 Write your first post!
 

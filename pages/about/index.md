@@ -2,7 +2,7 @@
 title: 关于我
 ---
 
-I am developing [Valaxy](https://github.com/YunYouJun/valaxy) - Next Generation Static Blog Framework.
+I am developing [Valaxy](https://github.com/YunYouJun/valaxy) - 资源主要来自Telegram频道
 
 If you like it, you can sponsor me in [GitHub](https://github.com/sponsors/YunYouJun) or [www.yunyoujun.cn/sponsors/](https://www.yunyoujun.cn/sponsors/).
 

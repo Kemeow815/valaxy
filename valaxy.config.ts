@@ -42,7 +42,7 @@ export default defineValaxyConfig<UserThemeConfig>({
     }),
     addonBangumi({
       api: 'https://bangumi.kemeow.top/api',
-      bilibiliUid: '396923563',
+      bilibiliUid: '3546643173477234',
       bgmEnabled: false,
     }),
     addonGitLog({
